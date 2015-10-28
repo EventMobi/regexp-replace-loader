@@ -1,0 +1,25 @@
+{
+  "name": "regexp-replace-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader to replace a regexp pattern with a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EventMobi/regexp-replace-loader.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "EventMobi <devs@eventmobi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EventMobi/regexp-replace-loader/issues"
+  },
+  "homepage": "https://github.com/EventMobi/regexp-replace-loader#readme",
+  "dependencies": {
+    "loader-utils": "0.2.11"
+  }
+}
