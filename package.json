@@ -1,6 +1,6 @@
 {
   "name": "regexp-replace-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack loader to replace a regexp pattern with a string",
   "main": "index.js",
   "scripts": {
